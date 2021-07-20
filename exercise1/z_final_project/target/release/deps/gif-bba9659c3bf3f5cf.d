@@ -1,0 +1,12 @@
+/home/dur4ng/rust/exercises/ultimate_rust_crash_course/exercise/z_final_project/target/release/deps/gif-bba9659c3bf3f5cf.rmeta: /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/home/dur4ng/rust/exercises/ultimate_rust_crash_course/exercise/z_final_project/target/release/deps/libgif-bba9659c3bf3f5cf.rlib: /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/home/dur4ng/rust/exercises/ultimate_rust_crash_course/exercise/z_final_project/target/release/deps/gif-bba9659c3bf3f5cf.d: /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs:
+/home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs:
+/home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs:
+/home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs:
+/home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs:
+/home/dur4ng/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs:

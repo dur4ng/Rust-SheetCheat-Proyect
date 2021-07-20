@@ -1,0 +1,1 @@
+/home/dur4ng/rust/exercises/ultimate_rust2/exercise/logging/target/debug/frogger: /home/dur4ng/rust/exercises/ultimate_rust2/exercise/logging/src/lib.rs /home/dur4ng/rust/exercises/ultimate_rust2/exercise/logging/src/main.rs build.rs

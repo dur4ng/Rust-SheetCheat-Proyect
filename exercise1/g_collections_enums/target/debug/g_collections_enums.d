@@ -1,0 +1,1 @@
+/home/dur4ng/rust/exercises/ultimate_rust_crash_course/exercise/g_collections_enums/target/debug/g_collections_enums: /home/dur4ng/rust/exercises/ultimate_rust_crash_course/exercise/g_collections_enums/src/main.rs build.rs

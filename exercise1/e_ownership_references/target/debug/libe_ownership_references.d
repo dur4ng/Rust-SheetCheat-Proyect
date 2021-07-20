@@ -1,0 +1,1 @@
+/home/dur4ng/rust/exercises/ultimate_rust_crash_course/exercise/e_ownership_references/target/debug/libe_ownership_references.rlib: /home/dur4ng/rust/exercises/ultimate_rust_crash_course/exercise/e_ownership_references/src/lib.rs
