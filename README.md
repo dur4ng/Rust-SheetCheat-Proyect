@@ -1,14 +1,4 @@
-# Ultimate Rust Crash Course
-
-This is the companion repository for the [Ultimate Rust Crash Course] published online, presented
-live at O'Reilly virtual events, or in person.  You will get the most out of this training 
-experience by trying to accomplish the [exercises] in this repository and watching (or attending)
-the instructor-led training.
-
-This repository is for you hands-on-learners who are ready to roll.
-
-I use macOS, and that is what I developed this course on.  Everything _ought_ to work similarly on
-major Linux distributions and Windows. Please [contact me](mailto:nathan.stocks@gmail.com) ASAP if you have trouble with anything on this page.
+# Rust Crash Course
 
 ## Install Rust
 
