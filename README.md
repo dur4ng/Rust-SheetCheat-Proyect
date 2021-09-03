@@ -40,14 +40,6 @@ page for details on all of these)
 Now you are ready for the training!  Go watch the [Ultimate Rust Crash Course] (or attend the live
 session) and come back here for the [exercises].
 
-# Resources
-
-- Training by the instructor (Nathan Stocks) in the form of the [Ultimate Rust Crash Course] or a
-  live session.
-- This Repository :tada:
-- [How To Learn Rust](https://github.com/CleanCut/rust_a_crash_course/blob/master/HowToLearnRust.md)
-- [The Rust Standard Library](https://doc.rust-lang.org/std/)
-
 # Exercises
 
 Please clone this repository! These exercises are designed as Rust projects for you to edit on your
